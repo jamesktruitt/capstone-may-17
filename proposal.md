@@ -14,21 +14,23 @@ The playlist has emerged as a leading industry feature as curation by real peopl
 
 ## Map the user experience
 
-* The “Casual” Listener
-  a. Doesn’t pay much attention to the music whatsoever
-  b. This listener often doesn’t know the name of the artists or the songs that they listen to
-  c. They don’t own much in the way of music
+The “Casual” Listener
+
+* Does not pay much attention to the music whatsoever
+* This listener often does not know the name of the artists or the songs that they listen to
+* They don’t own much in the way of music
 
 * The “Groovy” Listener
-  a. Likes the sound of the music and doesn’t really focus on the lyrics as much
-  b. If it has a good beat, then they are into it
-  c. If it has a catchy chorus, it doesn’t really matter what the song is about, they will like it
+
+* Likes the sound of the music and does not really focus on the lyrics as much, but it has a good beat, then they are into it
+* If it has a catchy chorus, it does not really matter what the song is about, they will like it
 
 * The “Critical” Listener
-  a. Really listens to and analyzes lyrics, cares about the whole package
-  b. It isn’t just about the lyrics, the song needs to have a good beat and delivery
-  c. Pays close attention to the growth of an artist throughout their career
-  d. This listener discovers music through a variety of sources, they are insightful and can tell if
+
+* Really listens to and analyzes lyrics, cares about the whole package
+delivery
+* Pays close attention to the growth of an artist throughout their career
+* This listener discovers music through a variety of sources, they are insightful and can tell if
   they will like an artist by what they read or hear about them
 
 ## Technologies
