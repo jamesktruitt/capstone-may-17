@@ -1,4 +1,4 @@
-### Playlistic App Proposal
+# Playlistic App Proposal
 
 ## Project Description
 
